@@ -1,0 +1,7 @@
+21 How can you concatenate two DataFrames vertically in Pandas?
+My answer is:
+Using pd.concat([df1, df2])
+Using df1.append(df2)
+
+
+
